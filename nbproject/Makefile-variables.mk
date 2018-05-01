@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=random1
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/random1
+CND_ARTIFACT_NAME_Debug=pesomedio
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/pesomedio
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=random1.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/random1.tar
+CND_PACKAGE_NAME_Debug=pesomedio.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/pesomedio.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=random1
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/random1
+CND_ARTIFACT_NAME_Release=pesomedio
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/pesomedio
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=random1.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/random1.tar
+CND_PACKAGE_NAME_Release=pesomedio.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/pesomedio.tar
 #
 # include compiler specific variables
 #
